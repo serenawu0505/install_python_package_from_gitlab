@@ -1,0 +1,8 @@
+##  https://stackoverflow.com/questions/15268953/how-to-install-python-package-from-github
+
+To install Python package from github, you need to clone that repository.
+
+git clone https://github.com/jkbr/httpie.git
+Then just run the setup.py file from that directory,
+
+sudo python setup.py install
