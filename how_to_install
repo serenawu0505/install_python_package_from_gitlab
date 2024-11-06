@@ -5,4 +5,6 @@ To install Python package from github, you need to clone that repository.
 git clone https://github.com/jkbr/httpie.git
 Then just run the setup.py file from that directory,
 
+## change to that directory and then run setup.py
+cd .\corelogic-blue-utilities\
 python setup.py install
